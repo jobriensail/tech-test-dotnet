@@ -1,0 +1,11 @@
+﻿global using Xunit;
+global using FluentAssertions;
+global using Moq;
+global using ClearBank.DeveloperTest.Tests.TestDataBuilders;
+global using ClearBank.DeveloperTest.Types;
+global using ClearBank.DeveloperTest.Validators;
+global using ClearBank.DeveloperTest.Configuration;
+global using ClearBank.DeveloperTest.Data;
+global using ClearBank.DeveloperTest.Factories;
+global using ClearBank.DeveloperTest.Services;
+global using ClearBank.DeveloperTest.Services.Failures;
